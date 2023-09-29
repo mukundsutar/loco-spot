@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tourism App</string>
+    <string name="map_key" translatable="false">AIzaSyDKVZ7swTX2ftVuhGhLDxfUZx6beL2mzs8</string>
+    <string-array name="modules">
+        <item>Admin</item>
+        <item>User</item>
+
+    </string-array>
+    <string name="title_activity_userdash">userdash</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Tourism App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_weather">Weather</string>
+    <string name="menu_place">Place</string>
+    <string name="menu_food">Food</string>
+    <string name="menu_bus">Bus Details</string>
+    <string name="menu_flight">Flight Details</string>
+    <string name="menu_road">By Road</string>
+    <string name="menu_budget">Budget</string>
+
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/notify"
+         android:title="Notification"
+          app:showAsAction="never" />
+
+    <item
+        android:id="@+id/review"
+        android:title="Review"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+<!--    <item-->
+<!--        android:id="@+id/item1"-->
+<!--        android:title="Weather"-->
+<!--        app:showAsAction="never" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/item2"-->
+<!--        android:title="Search Hotel"-->
+<!--        app:showAsAction="never" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/item3"-->
+<!--        android:title="Search Food"-->
+<!--        app:showAsAction="never" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/item4"-->
+<!--        android:title="Search Bus"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/item5"-->
+<!--        android:title="Search Flight"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/item6"-->
+<!--        android:title="Review"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/item7"-->
+<!--        android:title="Show Review"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/item8"-->
+<!--        android:title="Show Video"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/item9"-->
+<!--        android:title="Chat Bot"-->
+<!--        app:showAsAction="never" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/item10"-->
+<!--        android:title="Show Place"-->
+<!--        app:showAsAction="never" />-->
+
+
+</menu>
